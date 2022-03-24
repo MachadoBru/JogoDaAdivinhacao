@@ -1,4 +1,4 @@
-# Mentalista -  BruMachado
+# Jogo da Adivinhação -  BruMachado
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/machadobru/pen/BamgxZo](https://codepen.io/machadobru/pen/BamgxZo).
 
